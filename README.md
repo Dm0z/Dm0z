@@ -6,6 +6,6 @@
 
 -  I’m currently working on some java projects nothing to big
 
--  Best Way to reach me is via my email davidm@newside.org: 
+-  Best Way to reach me is via my email davidm@newside.org
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,linux)](https://skillicons.dev)
