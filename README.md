@@ -4,8 +4,8 @@
 
 
 
--  I’m currently working on some java projects nothing to big
+-  I’m currently working on Instantly a messaging program written in java 
 
 -  Best Way to reach me is via my email davidm@newside.org
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,vim,js,html,css,linux)](https://skillicons.dev)
