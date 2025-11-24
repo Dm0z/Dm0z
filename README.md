@@ -1,6 +1,6 @@
-![Hi there I am David](https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20Hi%20there%2C%20I%20am%20David%20%E2%98%81%EF%B8%8F-b5b5b5?style=for-the-badge&logoColor=white)
-
+![Hi there I am David](https://img.shields.io/badge/%E2%98%81%20Hi%20there,%20I%20am%20David%20%E2%98%81-b5b5b5?style=for-the-badge&logoColor=white)<br/>
 <img width="725" height="107" src="https://github.com/user-attachments/assets/7603db7b-58b3-4a8c-a465-350c669552d9" />
+
 
 ![Linux User + Java lover](https://img.shields.io/badge/Linux%20User%20%2B%20Java%20lover-b5b5b5?style=for-the-badge&logo=linux&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-davidm%40newside.org-b5b5b5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidm@newside.org)  
