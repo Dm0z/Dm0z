@@ -1,4 +1,5 @@
 ## Hi there I am David
+<img width="725" height="107" src="https://github.com/user-attachments/assets/7603db7b-58b3-4a8c-a465-350c669552d9" />
 
 - Linux User + Java lover 
 -  Best Way to reach me is via my email davidm@newside.org
@@ -11,4 +12,3 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F57C00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
