@@ -9,5 +9,4 @@
 ![CSS](https://img.shields.io/badge/CSS-b5b5b5?style=for-the-badge&logo=css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-b5b5b5?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-b5b5b5?style=for-the-badge&logo=javascript&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-b5b5b5?style=for-the-badge&logo=zsh&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-b5b5b5?style=for-the-badge&logo=gnubash&logoColor=white)
