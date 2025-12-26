@@ -2,7 +2,6 @@
 <img width="725" height="107" src="https://github.com/user-attachments/assets/7603db7b-58b3-4a8c-a465-350c669552d9" />
 
 ![Linux User + Java lover](https://img.shields.io/badge/Linux%20User%20%2B%20Java%20lover-b5b5b5?style=for-the-badge&logo=linux&logoColor=white)
-[![Email](https://img.shields.io/badge/Email-davidm%40newside.org-b5b5b5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidm@newside.org)  
 ![NixOS](https://img.shields.io/badge/NIXOS-b5b5b5?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-b5b5b5?style=for-the-badge&logo=alacritty&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-b5b5b5?style=for-the-badge&logo=html5&logoColor=white)
